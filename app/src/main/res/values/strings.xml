@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="nome">Matheus Henrique Oliveira</string>
+    <string name="descricao">
+        Sou estudante de Engenharia da Computação, apaixonado por tecnologia e inovação.
+        Busco um estágio para aplicar meus conhecimentos em desenvolvimento de software, hardware
+        e inteligência artificial, contribuindo com soluções criativas e eficazes.
+        Tenho experiência em programação, resolução de problemas e trabalho em equipe,
+        sempre focado em aprendizado contínuo e desafios que impulsionem meu
+        crescimento profissional.
+    </string>
+</resources>
